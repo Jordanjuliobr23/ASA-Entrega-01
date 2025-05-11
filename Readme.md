@@ -8,9 +8,8 @@
 ## Sobre o projeto:
   Trata-se de um repositorio destinado a entrega do Seminario sobre Docker, referente a disciplina de ASA (Administração de sistemas abertos) com o professor @salesfilho. O projeto apresenta: 
   
- 1- 🐳Conceitos fundamentais do Docker:
+ 1- 🐳[Conceitos fundamentais do Docker](./Docker.pdf):
        Apresentação em slides sobre os conceitos básicos da plataforma e de isolamento
-       (Docker.pdf)
        
 2- 🔗 Estabelecendo conexão entre Cointaneirs em uma mesma rede bridge: 
 
