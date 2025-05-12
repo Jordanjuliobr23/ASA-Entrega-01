@@ -11,5 +11,6 @@
  1- 🐳[Conceitos fundamentais do Docker](./Docker.pdf):
        Apresentação em slides sobre os conceitos básicos da plataforma e de isolamento
        
-2- 🔗 Estabelecendo conexão entre Cointaneirs em uma mesma rede bridge: 
+2- 🔗 Estabelecendo conexão entre Cointaneirs em uma mesma rede bridge (Apresentação em vídeo): 
+https://drive.google.com/file/d/1XU9THFy21zk_k4I5Lu_H2AKeQER2xAsa/view?usp=sharing
 
