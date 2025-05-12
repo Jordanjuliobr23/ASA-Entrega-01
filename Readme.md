@@ -2,7 +2,7 @@
 
 ## 🤝 Contribuintes:
 - Heyson Silva 
-- Jordan 
+- Jordan Júlio
 - Luigi Vincius Pini 
 
 ## Sobre o projeto:
