@@ -16,8 +16,12 @@ https://drive.google.com/file/d/1XU9THFy21zk_k4I5Lu_H2AKeQER2xAsa/view?usp=shari
 
 3- ⚒️ Estrutura do projeto:
 ASA-Entrega-01/
+
 ├── Docker.pdf
+
 ├── Dockerfile
+
 ├── Readme.md
+
 └── .gitignore
 
